@@ -138,7 +138,7 @@ function App() {
         <div className="resultado">
           <h3>Resultado:</h3>
           <h3>Consumo diário:</h3>
-          <p><strong>Calorias:</strong> {resultado.calorias} kcal</p>
+          <p><strong>🥄 Calorias:</strong> {resultado.calorias} kcal</p>
           <p><strong>🥩 Proteínas:</strong> {resultado.proteinas} g</p>
           <p><strong>🥓 Gorduras:</strong> {resultado.gorduras} g</p>
           <p><strong>🍙 Carboidratos:</strong> {resultado.carboidratos} g</p>
